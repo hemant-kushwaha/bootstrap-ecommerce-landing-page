@@ -16,7 +16,7 @@ A responsive, user-friendly e-commerce landing page built using Bootstrap's comp
 - **Bootstrap Components**: Leveraging Bootstrap for fast and efficient layout management and styling.
 
 ## 🚀 Demo
-View a live preview [here](insert-link).
+View a live preview : Coming Soon
 
 ## 💻 Technologies Used
 - **HTML5**
